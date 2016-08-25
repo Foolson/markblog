@@ -1,7 +1,7 @@
 ---
 title:  Pancetta  meatloaf
 author: Johan Olsson
-datetime:   2012-01-01 00:00:00
+datetime:   2012-01-01 00:00
 ---
 Eu ad picanha ullamco shank. Pariatur filet mignon ea ut kevin leberkas ut ipsum tongue
 corned beef sint bacon flank nulla. Commodo picanha meatloaf anim lorem fatback drumstick

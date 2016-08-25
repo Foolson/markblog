@@ -1,7 +1,7 @@
 ---
 title:  Shank corned beef
 author: Johan Olsson
-datetime: 2013-01-01 00:00:00
+datetime: 2013-01-01 00:00
 ---
 Pancetta shank aute aliqua, sirloin magna dolore andouille id labore swine. Ground round tail deserunt tongue jowl adipisicing ea. Anim pork ut in et. Exercitation kevin in, occaecat pork eu spare ribs picanha aliquip brisket adipisicing pig consectetur shank pork chop.  
 

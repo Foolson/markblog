@@ -1,7 +1,7 @@
 ---
 title:  Shoulder frankfurter
 author: Johan Olsson
-datetime:   2015-01-01 00:00:00
+datetime:   2015-01-01 00:00
 ---
 Incididunt id spare ribs ex. Drumstick sausage doner biltong, lorem fugiat commodo. Lorem cillum mollit ex. Veniam ham in, in sirloin sed dolor. Et pastrami doner, fatback salami dolore ham hock. Est duis ham pariatur tail in alcatra in beef. Est qui bresaola ad cupim eu.  
 
