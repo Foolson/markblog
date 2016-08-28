@@ -21,11 +21,11 @@ function getPosts($files, $folder){
     $contents = fread($handle, filesize($filename));
     fclose($handle);
     $subject = $contents;
-    $pattern = '/^---\n([\s\S]+)\n---\n/';
+    $pattern = '/---\n((?:.+: {1,}.+\n)+)---\n/';
     preg_match($pattern, $subject, $matches);
     $postMeta = spyc_load($matches[1]);
     $post = $postMeta;
-    $postBody =  preg_replace('/^---\n[\s\S]+\n---\n/', '', $contents);
+    $postBody =  preg_replace('/---\n(?:.+: {1,}.+\n)+---\n/', '', $contents);
     $post['slug'] = toSlug($post['title']);
     $post['body'] = $postBody;
     array_push($posts, $post);
